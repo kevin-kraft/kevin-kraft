@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on GTA5/FiveM Operating System 
 
-- 👯 I'm looking to collaborate on Ottonien (https://ottonien.com/) 
+- 👯 Im helping out at Ottonien (https://ottonien.com/) 
 
 - 📫 How to reach me k.krafti@web.de
 
