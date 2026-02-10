@@ -1,14 +1,14 @@
-# Hi 👋, I'm Kevin Kraft
+# Hi 👋, I'm Kevin 
 
 ### A passionate Typescript developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevin-kraft" alt="kevin-kraft" /></a> </p>
 
-- 🔭 I'm currently working on **GTA5/FiveM Operating System **
+- 🔭 I'm currently working on GTA5/FiveM Operating System 
 
-- 👯 I'm looking to collaborate on **Ottonien (https://ottonien.com/) **
+- 👯 I'm looking to collaborate on Ottonien (https://ottonien.com/) 
 
-- 📫 How to reach me **k.krafti@web.de**
+- 📫 How to reach me k.krafti@web.de
 
 - 👨‍💻 All of my projects are available at **[https://www.kevinkraft.de/](https://www.kevinkraft.de/)**
 
