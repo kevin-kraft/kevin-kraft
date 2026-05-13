@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kevin 
 
-### A passionate Typescript developer
+### A passionate developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevin-kraft" alt="kevin-kraft" /></a> </p>
 
